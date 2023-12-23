@@ -1,0 +1,31 @@
+ /* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  thead th, tbody td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  thead th {
+    background-color: #f2f2f2;
+  }
+  
+  /* Image styles */
+  img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+  }
+  
+  /* No data message styles */
+  .no-data-message {
+    color: #666;
+    font-style: italic;
+    margin-top: 20px;
+  }
+  

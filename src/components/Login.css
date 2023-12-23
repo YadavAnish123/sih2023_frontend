@@ -1,0 +1,25 @@
+ 
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background: url('/src/components/back.jpeg') center center fixed;
+  background-size: cover;
+  
+}
+
+.Login_body{
+  height: 100vh;
+  width:40%;
+  margin-left: 393px;
+  color:#fff;
+  margin-top: 50px;
+  
+}
+
+.mb-3 label{
+  color: #fff;
+}
+
